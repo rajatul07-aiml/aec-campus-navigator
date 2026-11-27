@@ -1,0 +1,8 @@
+{
+  "name": "AEC Campus 3D Navigator",
+  "description": "Interactive 3D campus and multi-floor New Academic Building indoor navigator for Asansol Engineering College powered by A* and Dijkstra shortest-path routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
